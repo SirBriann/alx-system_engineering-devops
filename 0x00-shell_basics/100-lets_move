@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/u ls -la 
+/tmp/u ls -la . 
