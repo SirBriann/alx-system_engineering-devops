@@ -1,2 +1,2 @@
-SCHOOL 
-file --mime-type -m school.mgc *
+0	string SCHOOL This is a school file 
+!:mime school
