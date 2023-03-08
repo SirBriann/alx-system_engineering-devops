@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ls . rm -rf *~ /tmp/emacs
+/tmp/emacs ls -la rm *~
