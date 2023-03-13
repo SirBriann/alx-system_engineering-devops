@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("Hello World");
+gcc 0-hello_world.c -o 0-hello_world
